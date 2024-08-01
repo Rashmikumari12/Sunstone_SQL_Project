@@ -63,6 +63,3 @@ The IssuedBooks table serves as an associative entity that establishes these man
 
 
 
-ER Diagram Creation Steps
-Identify the entities and list their attributes.
-Define primary keys for each entity.
